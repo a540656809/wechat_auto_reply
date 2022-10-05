@@ -19,3 +19,10 @@
 ![自动回复](https://raw.githubusercontent.com/a540656809/wechatTool/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221005081127.png)  
 ### 消息防撤回
 ![消息防撤回](https://i.loli.net/2019/03/27/5c9b346b5d6d8.jpg)  
+
+## 声明
+
+**本项目仅供技术研究，请勿用于任何商业用途，请勿用于非法用途，如有任何人凭此做何非法事情，均于作者无关，特此声明。**
+
+# 特别感谢 #
+[WeChatRobot](https://github.com/TonyChen56/WeChatRobot "WeChatRobot") developers
